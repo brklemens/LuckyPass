@@ -29,7 +29,7 @@ def main():
 
     print()
     print("╔═══════════════════════════════════╗")
-    print("║       LuckyPass v0.1.1            ║")
+    print("║       LuckyPass v0.1.3            ║")
     print("╠═══════════════════════════════════╣")
     print(f"║ Length of password: {length:<14}║")
     print(f"║ Includes special symbols: {special_symbol:<8}║")
